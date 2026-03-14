@@ -43,6 +43,5 @@ temporary_notebooks/
 notebooks.zip
 src.zip
 
-notebooks/03_representation_study/08_projection_head_ablation.ipynb
 notebooks/03_representation_study/redundant_pt2.ipynb
 notebooks/03_representation_study/redundant.ipynb
