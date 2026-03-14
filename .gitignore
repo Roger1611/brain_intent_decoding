@@ -39,3 +39,9 @@ temporary_notebooks/
 
 .idea/
 *.code-workspace
+
+notebooks.zip
+src.zip
+
+notebooks/03_representation_study/redundant_pt2.ipynb
+notebooks/03_representation_study/redundant.ipynb
