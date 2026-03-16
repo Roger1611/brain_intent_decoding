@@ -45,3 +45,7 @@ src.zip
 
 notebooks/03_representation_study/redundant_pt2.ipynb
 notebooks/03_representation_study/redundant.ipynb
+
+notebooks/03_representation_study/07_projection_icrr_lambda_all_subjects.ipynb
+
+datasets/
