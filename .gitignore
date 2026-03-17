@@ -57,6 +57,3 @@ results/figures/regularization_tradeoff
 notebooks/03_representation_study/trash
 
 results/figures/model_comparisons
-
-notebooks/03_representation_study/07_icrr_lambda_sweep_correct.ipynb
-results/figures/icrr_lambda_sweep
