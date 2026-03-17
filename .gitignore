@@ -46,6 +46,14 @@ src.zip
 notebooks/03_representation_study/redundant_pt2.ipynb
 notebooks/03_representation_study/redundant.ipynb
 
-notebooks/03_representation_study/07_projection_icrr_lambda_all_subjects.ipynb
-
 datasets/
+
+results/projection_icrr_models
+results/tables/projection_head_ablation
+results/tables/projection_icrr_ablation
+results/tables/statistical_analysis
+results/figures/regularization_tradeoff
+
+notebooks/03_representation_study/trash
+
+results/figures/model_comparisons

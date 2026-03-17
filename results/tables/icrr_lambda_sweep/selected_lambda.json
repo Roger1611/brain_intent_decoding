@@ -1,0 +1,4 @@
+{
+    "selected_lambda": 1.0,
+    "criterion": "highest lambda with p_acc > 0.05"
+}
